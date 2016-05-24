@@ -1,0 +1,14 @@
+layout_spectrum: 0.6221654943656176
+typography_spectrum: 0.8079974120482802
+color:
+  brandStrength: 0.11183648277074099
+  lightness: 0.5472247349098325
+  saturation: 0.239563780836761
+  rhythmicContrast: 0.47123295441269875
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: TestMay11-2
